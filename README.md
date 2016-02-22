@@ -7,9 +7,9 @@ pip install tweepy
 
 ##Usage: 
 ```
-python tweetreader.py mx|ny|sf >> tweets1.txt   
+python tweetreader.py mex|ny|sf >> tweets1.txt   
 python formater.py >> tweets2.txt  
-python counter.py mx|ny|sf   
+python counter.py mex|ny|sf   
 ```
 
-Now you can use mx|ny|sf.json :P
+Now you can use mex|ny|sf.json :P
